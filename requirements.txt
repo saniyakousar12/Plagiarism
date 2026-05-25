@@ -10,12 +10,11 @@ gunicorn==26.0.0
 ImageIO==2.37.3
 joblib==1.5.3
 lazy-loader==0.5
-psycopg2-binary==2.9.10
+mysqlclient==2.2.8
 networkx==3.6.1
 nltk==3.9.4
 numpy==2.4.4
-opencv-contrib-python==4.13.0.92
-opencv-python==4.13.0.92
+opencv-python-headless==4.13.0.92
 packaging==26.2
 pillow==12.2.0
 PyJWT==2.12.1
@@ -30,4 +29,3 @@ tifffile==2026.5.2
 tqdm==4.67.3
 tzdata==2026.2
 whitenoise==6.12.0
-
