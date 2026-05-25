@@ -14,7 +14,7 @@ mysqlclient==2.2.8
 networkx==3.6.1
 nltk==3.9.4
 numpy==2.4.4
-opencv-python-headless==4.13.0.92
+opencv-contrib-python-headless==4.13.0.92
 packaging==26.2
 pillow==12.2.0
 PyJWT==2.12.1
